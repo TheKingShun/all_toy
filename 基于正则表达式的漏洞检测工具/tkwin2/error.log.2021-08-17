@@ -1,0 +1,12 @@
+2021-08-17 20:03:40  [ main:3 ] - [ ERROR ]  modifier is not clear
+2021-08-17 20:03:40  [ main:8 ] - [ ERROR ]  line: 5
+2021-08-17 20:04:09  [ main:3 ] - [ ERROR ]  modifier is not clear
+2021-08-17 20:04:09  [ main:11 ] - [ ERROR ]  line: 5
+2021-08-17 20:04:43  [ main:4 ] - [ ERROR ]  modifier is not clear
+2021-08-17 20:04:43  [ main:15 ] - [ ERROR ]  line: 5
+2021-08-17 20:22:06  [ main:11 ] - [ ERROR ]  modifier is not clear
+2021-08-17 20:22:06  [ main:14 ] - [ ERROR ]  line: 5
+2021-08-17 22:09:43  [ main:7 ] - [ ERROR ]  "Uncheck return value :" callee.call(); , line is :16
+2021-08-17 22:10:54  [ main:9 ] - [ ERROR ]  "Uncheck return value :" callee.call(); , line is :16
+2021-08-17 22:11:47  [ main:8 ] - [ ERROR ]  "Uncheck return value :" callee.call(); , line is :16
+2021-08-17 22:11:47  [ main:9 ] - [ ERROR ]  "Uncheck return value :" msg.sender().send(); , line is :20

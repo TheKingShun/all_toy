@@ -1,0 +1,146 @@
+2021-08-17 17:14:02  [ main:0 ] - [ INFO ]  123
+2021-08-17 17:16:48  [ main:0 ] - [ INFO ]  123
+2021-08-17 17:25:29  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 17:26:44  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 17:26:44  [ main:1 ] - [ INFO ]  0.4.4
+2021-08-17 17:27:01  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 17:27:01  [ main:1 ] - [ INFO ]  0.4.4
+2021-08-17 18:22:14  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 18:22:14  [ main:2 ] - [ INFO ]  0.4.4
+2021-08-17 19:04:31  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 19:29:18  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 19:29:18  [ main:2 ] - [ INFO ]  block is null
+2021-08-17 19:29:18  [ main:4 ] - [ INFO ]  block is not null
+2021-08-17 19:45:18  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:03:40  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:03:40  [ main:2 ] - [ INFO ]  block is not null
+2021-08-17 20:03:40  [ main:3 ] - [ ERROR ]  modifier is not clear
+2021-08-17 20:03:40  [ main:8 ] - [ ERROR ]  line: 5
+2021-08-17 20:04:09  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:04:09  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 20:04:09  [ main:3 ] - [ ERROR ]  modifier is not clear
+2021-08-17 20:04:09  [ main:11 ] - [ ERROR ]  line: 5
+2021-08-17 20:04:43  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:04:43  [ main:2 ] - [ INFO ]  block is not null
+2021-08-17 20:04:43  [ main:3 ] - [ INFO ]  
+2021-08-17 20:04:43  [ main:4 ] - [ ERROR ]  modifier is not clear
+2021-08-17 20:04:43  [ main:15 ] - [ ERROR ]  line: 5
+2021-08-17 20:08:08  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:08:08  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 20:12:05  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:15:30  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:17:05  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:17:05  [ main:2 ] - [ INFO ]  block is not null
+2021-08-17 20:19:17  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:19:17  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 20:19:27  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:19:27  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 20:20:10  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:20:10  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 20:20:28  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:20:28  [ main:2 ] - [ INFO ]  block is not null
+2021-08-17 20:20:28  [ main:4 ] - [ INFO ]  com.tk.main.analyze.SolValue@64bf3bbf
+2021-08-17 20:20:48  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:20:48  [ main:2 ] - [ INFO ]  block is not null
+2021-08-17 20:20:48  [ main:4 ] - [ INFO ]  SolValue{value=[SolValue{value=external}, SolValue{value=public}, SolValue{value=internal}, SolValue{value=private}]}
+2021-08-17 20:21:26  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:21:26  [ main:1 ] - [ INFO ]  external
+2021-08-17 20:21:26  [ main:3 ] - [ INFO ]  block is not null
+2021-08-17 20:21:26  [ main:3 ] - [ INFO ]  external
+2021-08-17 20:21:26  [ main:3 ] - [ INFO ]  SolValue{value=[SolValue{value=external}, SolValue{value=public}, SolValue{value=internal}, SolValue{value=private}]}
+2021-08-17 20:21:48  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:21:48  [ main:2 ] - [ INFO ]  block is not null
+2021-08-17 20:21:48  [ main:3 ] - [ INFO ]  SolValue{value=[SolValue{value=public}, SolValue{value=internal}, SolValue{value=private}]}
+2021-08-17 20:22:06  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:22:06  [ main:2 ] - [ INFO ]  block is not null
+2021-08-17 20:22:06  [ main:4 ] - [ INFO ]  SolValue{value=[]}
+2021-08-17 20:22:06  [ main:11 ] - [ ERROR ]  modifier is not clear
+2021-08-17 20:22:06  [ main:14 ] - [ ERROR ]  line: 5
+2021-08-17 20:23:05  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:23:05  [ main:2 ] - [ INFO ]  block is not null
+2021-08-17 20:23:05  [ main:3 ] - [ INFO ]  SolValue{value=[]}
+2021-08-17 20:23:05  [ main:14 ] - [ WARN ]  modifier is not clear
+2021-08-17 20:23:05  [ main:17 ] - [ WARN ]  line: 5
+2021-08-17 20:23:30  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:23:30  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 20:23:30  [ main:3 ] - [ INFO ]  SolValue{value=[]}
+2021-08-17 20:23:30  [ main:14 ] - [ WARN ]  modifier is not clear line:5
+2021-08-17 20:23:53  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 20:23:53  [ main:2 ] - [ INFO ]  block is not null
+2021-08-17 20:23:53  [ main:9 ] - [ WARN ]  modifier is not clear line:5
+2021-08-17 21:27:35  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 21:27:35  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 21:27:35  [ main:10 ] - [ WARN ]  modifier is not clear line:5
+2021-08-17 21:27:35  [ main:10 ] - [ INFO ]  block is not null
+2021-08-17 21:27:35  [ main:11 ] - [ WARN ]  modifier is not clear line:8
+2021-08-17 21:28:00  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 21:28:00  [ main:3 ] - [ INFO ]  block is not null
+2021-08-17 21:28:00  [ main:10 ] - [ WARN ]  modifier is not given line:5
+2021-08-17 21:28:00  [ main:10 ] - [ INFO ]  block is not null
+2021-08-17 21:28:00  [ main:10 ] - [ WARN ]  modifier is not given line:8
+2021-08-17 21:31:16  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 21:31:16  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 21:31:16  [ main:7 ] - [ WARN ]  modifier is not given line:5
+2021-08-17 21:31:16  [ main:8 ] - [ INFO ]  block is not null
+2021-08-17 21:31:16  [ main:8 ] - [ WARN ]  modifier is not given line:8
+2021-08-17 21:31:16  [ main:9 ] - [ INFO ]  block is not null
+2021-08-17 21:31:16  [ main:9 ] - [ INFO ]  block is not null
+2021-08-17 21:41:17  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 21:41:17  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 21:41:17  [ main:3 ] - [ INFO ]  block is not null
+2021-08-17 21:42:23  [ main:0 ] - [ INFO ]  visitSourceUnit
+2021-08-17 21:42:23  [ main:1 ] - [ INFO ]  block is not null
+2021-08-17 21:42:23  [ main:3 ] - [ INFO ]  block is not null
+2021-08-17 21:44:02  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 21:44:02  [ main:3 ] - [ INFO ]  0.4.4
+2021-08-17 21:44:02  [ main:43 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 21:44:02  [ main:44 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 21:54:57  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 21:54:57  [ main:2 ] - [ INFO ]  0.4.4
+2021-08-17 21:54:57  [ main:8 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 21:54:57  [ main:9 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 21:56:52  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 21:56:52  [ main:2 ] - [ INFO ]  0.4.4
+2021-08-17 21:56:52  [ main:9 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 21:56:52  [ main:10 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 21:57:50  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 21:57:50  [ main:1 ] - [ INFO ]  0.4.4
+2021-08-17 21:57:50  [ main:6 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 21:57:50  [ main:6 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 21:59:36  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 21:59:36  [ main:2 ] - [ INFO ]  0.4.4
+2021-08-17 21:59:36  [ main:8 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 21:59:36  [ main:8 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 21:59:54  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 21:59:54  [ main:2 ] - [ INFO ]  0.4.4
+2021-08-17 21:59:54  [ main:11 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 21:59:54  [ main:12 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 22:00:09  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 22:00:09  [ main:1 ] - [ INFO ]  0.4.4
+2021-08-17 22:00:09  [ main:6 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 22:00:09  [ main:6 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 22:00:20  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 22:00:20  [ main:2 ] - [ INFO ]  0.4.4
+2021-08-17 22:00:20  [ main:7 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 22:00:20  [ main:8 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 22:09:43  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 22:09:43  [ main:1 ] - [ INFO ]  0.4.4
+2021-08-17 22:09:43  [ main:6 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 22:09:43  [ main:6 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 22:09:43  [ main:7 ] - [ ERROR ]  "Uncheck return value :" callee.call(); , line is :16
+2021-08-17 22:10:40  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 22:10:40  [ main:2 ] - [ INFO ]  0.4.4
+2021-08-17 22:10:40  [ main:7 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 22:10:40  [ main:8 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 22:10:54  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 22:10:54  [ main:2 ] - [ INFO ]  0.4.4
+2021-08-17 22:10:54  [ main:8 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 22:10:54  [ main:9 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 22:10:54  [ main:9 ] - [ ERROR ]  "Uncheck return value :" callee.call(); , line is :16
+2021-08-17 22:11:47  [ main:0 ] - [ INFO ]  enterSourceUnit
+2021-08-17 22:11:47  [ main:2 ] - [ INFO ]  0.4.4
+2021-08-17 22:11:47  [ main:7 ] - [ INFO ]  current expression is require(callee.call()); , line is : 12
+2021-08-17 22:11:47  [ main:8 ] - [ INFO ]  current expression is callee.call(); , line is : 16
+2021-08-17 22:11:47  [ main:8 ] - [ ERROR ]  "Uncheck return value :" callee.call(); , line is :16
+2021-08-17 22:11:47  [ main:9 ] - [ INFO ]  current expression is msg.sender().send(); , line is : 20
+2021-08-17 22:11:47  [ main:9 ] - [ ERROR ]  "Uncheck return value :" msg.sender().send(); , line is :20

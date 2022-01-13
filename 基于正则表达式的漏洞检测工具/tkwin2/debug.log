@@ -1,0 +1,20 @@
+2021-08-20 10:53:50  [ main:0 ] - [ INFO ]  current version is ^0.5.0
+2021-08-20 10:53:50  [ main:6 ] - [ WARN ]  state variable modifier is default! -> line is 13
+2021-08-20 10:53:50  [ main:9 ] - [ ERROR ]  BlockNumber dependency : users[msg.sender].unlockBlock=block.number+(_time/14)  -> line is 18
+2021-08-20 10:53:50  [ main:11 ] - [ ERROR ]  BlockNumber dependency : require(block.number>=users[msg.sender].unlockBlock,'lock period not over')  -> line is 25
+2021-08-20 10:59:33  [ main:0 ] - [ INFO ]  current version is ^0.5.0
+2021-08-20 10:59:33  [ main:5 ] - [ WARN ]  state variable modifier is default! -> line is 13
+2021-08-20 10:59:33  [ main:8 ] - [ ERROR ]  BlockNumber dependency : users[msg.sender].unlockBlock=block.number+(_time/14)  -> line is 18
+2021-08-20 10:59:33  [ main:9 ] - [ ERROR ]  BlockNumber dependency : require(block.number>=users[msg.sender].unlockBlock,'lock period not over')  -> line is 25
+2021-08-20 11:02:19  [ main:0 ] - [ INFO ]  current version is ^0.5.0
+2021-08-20 11:02:19  [ main:6 ] - [ WARN ]  state variable modifier is default! -> line is 13
+2021-08-20 11:02:19  [ main:8 ] - [ ERROR ]  BlockNumber dependency : users[msg.sender].unlockBlock=block.number+(_time/14)  -> line is 18
+2021-08-20 11:02:19  [ main:9 ] - [ ERROR ]  BlockNumber dependency : require(block.number>=users[msg.sender].unlockBlock,'lock period not over')  -> line is 25
+2021-08-20 11:02:35  [ main:0 ] - [ INFO ]  current version is ^0.5.0
+2021-08-20 11:02:35  [ main:5 ] - [ WARN ]  state variable modifier is default! -> line is 13
+2021-08-20 11:02:35  [ main:8 ] - [ ERROR ]  BlockNumber dependency : users[msg.sender].unlockBlock=block.number+(_time/14)  -> line is 18
+2021-08-20 11:02:35  [ main:8 ] - [ ERROR ]  BlockNumber dependency : require(block.number>=users[msg.sender].unlockBlock,'lock period not over')  -> line is 25
+2021-08-20 11:03:35  [ main:0 ] - [ INFO ]  current version is ^0.5.0
+2021-08-20 11:03:35  [ main:8 ] - [ WARN ]  state variable modifier is default! -> line is 13
+2021-08-20 11:03:35  [ main:10 ] - [ ERROR ]  BlockNumber dependency : users[msg.sender].unlockBlock=block.number+(_time/14)  -> line is 18
+2021-08-20 11:03:35  [ main:11 ] - [ ERROR ]  BlockNumber dependency : require(block.number>=users[msg.sender].unlockBlock,'lock period not over')  -> line is 25

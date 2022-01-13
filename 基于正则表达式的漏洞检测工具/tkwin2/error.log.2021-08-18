@@ -1,0 +1,62 @@
+2021-08-18 08:42:05  [ main:13 ] - [ ERROR ]  "Uncheck return value :" callee.call(); , line is :18
+2021-08-18 08:42:05  [ main:16 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 08:42:26  [ main:18 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 09:15:49  [ main:9 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 13:57:52  [ main:12 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 13:58:26  [ main:18 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 13:58:58  [ main:10 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:00:52  [ main:9 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:44:22  [ main:12 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:45:06  [ main:20 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:45:16  [ main:10 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:45:57  [ main:16 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:48:35  [ main:18 ] - [ ERROR ]  "Uncheck return value :" require(callee.call()); , line is :12
+2021-08-18 14:48:35  [ main:21 ] - [ ERROR ]  "Uncheck return value :" (callee.call()); , line is :18
+2021-08-18 14:48:35  [ main:22 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:49:19  [ main:9 ] - [ ERROR ]  "Uncheck return value :" (callee.call()); , line is :18
+2021-08-18 14:49:19  [ main:10 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:49:53  [ main:11 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:50:39  [ main:16 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:51:06  [ main:14 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:51:43  [ main:11 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:52:12  [ main:12 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:52:21  [ main:40 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:55:09  [ main:27 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:57:22  [ main:14 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 14:59:58  [ main:7 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 15:00:09  [ main:10 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 15:00:48  [ main:7 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 15:09:25  [ main:3 ] - [ ERROR ]  "modifier is wrong , u should given a modifier like \"public\""; line is 5 
+2021-08-18 15:09:25  [ main:5 ] - [ ERROR ]  "modifier is wrong , u should given a modifier like \"public\""; line is 8 
+2021-08-18 15:09:25  [ main:6 ] - [ ERROR ]  "modifier is wrong , u should given a modifier like \"public\""; line is 11 
+2021-08-18 15:09:25  [ main:7 ] - [ ERROR ]  "modifier is wrong , u should given a modifier like \"public\""; line is 15 
+2021-08-18 15:09:25  [ main:7 ] - [ ERROR ]  "modifier is wrong , u should given a modifier like \"public\""; line is 21 
+2021-08-18 15:09:25  [ main:8 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 15:10:02  [ main:4 ] - [ ERROR ]  "modifier is wrong , u should given a modifier like \"public\""; line is 5 
+2021-08-18 15:10:02  [ main:9 ] - [ ERROR ]  "modifier is wrong , u should given a modifier like \"public\""; line is 8 
+2021-08-18 15:10:02  [ main:10 ] - [ ERROR ]  "modifier is wrong , u should given a modifier like \"public\""; line is 11 
+2021-08-18 15:10:02  [ main:12 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 15:11:13  [ main:7 ] - [ ERROR ]  modifier is wrong , u should given a modifier like "public"; line is 5 
+2021-08-18 15:11:13  [ main:12 ] - [ ERROR ]  modifier is wrong , u should given a modifier like "public"; line is 8 
+2021-08-18 15:11:13  [ main:13 ] - [ ERROR ]  modifier is wrong , u should given a modifier like "public"; line is 11 
+2021-08-18 15:11:13  [ main:16 ] - [ ERROR ]  "Uncheck return value :" msg.sender.send(); , line is :22
+2021-08-18 15:17:03  [ main:3 ] - [ ERROR ]  modifier is wrong , u should given a modifier like "public"; line is 5 
+2021-08-18 15:17:03  [ main:12 ] - [ ERROR ]  modifier is wrong , u should given a modifier like "public"; line is 8 
+2021-08-18 15:17:03  [ main:13 ] - [ ERROR ]  modifier is wrong , u should given a modifier like "public"; line is 11 
+2021-08-18 15:17:03  [ main:19 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 22
+2021-08-18 15:17:15  [ main:8 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 22
+2021-08-18 15:17:33  [ main:6 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 22
+2021-08-18 15:22:04  [ main:9 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 23
+2021-08-18 15:26:58  [ main:19 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 23
+2021-08-18 15:27:07  [ main:7 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 23
+2021-08-18 15:27:30  [ main:7 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 23
+2021-08-18 15:27:56  [ main:7 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 23
+2021-08-18 15:28:23  [ main:15 ] - [ ERROR ]  state variable modifier is default! -> line is 4
+2021-08-18 15:28:23  [ main:18 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 23
+2021-08-18 15:28:51  [ main:6 ] - [ ERROR ]  state variable modifier is default! -> line is 4
+2021-08-18 15:28:51  [ main:11 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 23
+2021-08-18 15:31:35  [ main:26 ] - [ ERROR ]  Uncheck return value : msg.sender.send()  -> line is 23
+2021-08-18 15:38:21  [ main:3 ] - [ ERROR ]  BlockNumber dependency : users[msg.sender].unlockBlock=block.number+(_time/14)  -> line is 18
+2021-08-18 15:38:21  [ main:6 ] - [ ERROR ]  BlockNumber dependency : require(block.number>=users[msg.sender].unlockBlock,'lock period not over')  -> line is 25
+2021-08-18 15:49:17  [ main:8 ] - [ ERROR ]  BlockNumber dependency : users[msg.sender].unlockBlock=block.number+(_time/14)  -> line is 18
+2021-08-18 15:49:17  [ main:9 ] - [ ERROR ]  BlockNumber dependency : require(block.number>=users[msg.sender].unlockBlock,'lock period not over')  -> line is 25
